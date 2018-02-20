@@ -2,7 +2,7 @@ body {
   background-image: url("https://www.muralswallpaper.com/app/uploads/black-and-red-aged-brick-plain-2.jpg");
   font-family: Helvetica, sans-serif;
   text-align: center;
-}
+  color: #000; }
 
 header {
   margin: 0 auto;
@@ -11,8 +11,7 @@ header {
   border-color: #000;
   border-radius: 10px;
   background-color: #FFF;
-  margin-bottom: 3%;
-}
+  margin-bottom: 3%; }
 
 section {
   margin: 0 auto;
@@ -21,9 +20,9 @@ section {
   border-color: #000;
   border-radius: 10px;
   background-color: #FFF;
-  padding: 0 5%;
-}
+  padding: 0 5%; }
 
 blockquote {
-  margin: 5% auto;
-}
+  margin: 5% auto; }
+
+/*# sourceMappingURL=style.css.map */
